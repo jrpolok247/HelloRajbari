@@ -63,6 +63,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textGovt"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/goffc"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -99,6 +100,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textPolice"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/ps"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -135,6 +137,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textHospital"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/hospital"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -183,6 +186,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textFire"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/fireservice"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -219,6 +223,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textAmbulance"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/ambul"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -255,6 +260,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textDoctors"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/doc"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -302,6 +308,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textBlood"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/blood"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -338,6 +345,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textTourist"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/tourist"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -374,6 +382,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textHotel"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/hotel"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -421,6 +430,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textRentCar"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/rentacar"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -428,7 +438,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_alignParentBottom="true"
-                        android:text="Blood Donors"
+                        android:text="Rent A Car"
                         android:textAlignment="center"
                         android:textSize="18dp" />
 
@@ -457,6 +467,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textElectricity"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/electricity"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
@@ -493,6 +504,7 @@
                         android:layout_height="wrap_content"
                         android:layout_above="@+id/textRestaurants"
                         android:layout_alignParentTop="true"
+                        android:src="@drawable/resturent"
                         tools:ignore="SpeakableTextPresentCheck" />
 
                     <TextView
